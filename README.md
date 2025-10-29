@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Shuvo Kumar Das</h1>
-<h3 align="center">A Passionate Data Analyst & Software Developer</h3>
+<h3 align="center">A Passionate Software Developer & Power Platform Specialist (Powerapps,Power Automate, PowerBI) </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shuvookd&label=Profile%20views&color=0e75b6&style=flat" alt="shuvookd" /> </p>
 
