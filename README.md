@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **iamshuvokd@gmail.com / 01831-839121**
 
-- 📄 Know about my experiences [[https://drive.google.com/file/d/12GgJn39ceyr6t-YJ51jgNEOpN66aVcxv/view?usp=sharing](https://drive.google.com/file/d/12GgJn39ceyr6t-YJ51jgNEOpN66aVcxv/view?usp=sharing](https://shuvokumardas.me/))
+- 📄 Know about my experiences [[https://shuvokumardas.me))
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
