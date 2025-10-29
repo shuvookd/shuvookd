@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Shuvo Kumar Das</h1>
-<h3 align="center">A Passionate Data Analyst & Frontend Developer</h3>
+<h3 align="center">A Passionate Data Analyst & Software Developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shuvookd&label=Profile%20views&color=0e75b6&style=flat" alt="shuvookd" /> </p>
 
 - 🌱 I’m currently learning **Power BI**
 
-- 📫 How to reach me **shuvokd1210@gmail.com / 01831-839121**
+- 📫 How to reach me **Iamshuvokd@gmail.com / 01831-839121**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/12GgJn39ceyr6t-YJ51jgNEOpN66aVcxv/view?usp=sharing](https://drive.google.com/file/d/12GgJn39ceyr6t-YJ51jgNEOpN66aVcxv/view?usp=sharing)
+- 📄 Know about my experiences [[https://drive.google.com/file/d/12GgJn39ceyr6t-YJ51jgNEOpN66aVcxv/view?usp=sharing](https://drive.google.com/file/d/12GgJn39ceyr6t-YJ51jgNEOpN66aVcxv/view?usp=sharing](https://shuvokumardas.me/))
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
